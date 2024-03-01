@@ -1,8 +1,8 @@
-name = "edge-chat-demo"
+name = "chat"
 workers_dev = true
 compatibility_date = "2021-11-08"
-# Add your account ID here
-account_id = ""
+logpush = true
+account_id = "873aca2690e157e3d1b29cd52234d7e1"
 
 main = "src/chat.mjs"
 
